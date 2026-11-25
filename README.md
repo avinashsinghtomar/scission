@@ -2,7 +2,7 @@
 
 *A small GPT built from scratch in PyTorch, in phases. Learning project by Avinash and Akshat.*
 
-## 📌 About the Project
+##  About the Project
 
 This project aims to build a small **Generative Pre-trained Transformer (GPT)** model from the ground up using **PyTorch**.
 
@@ -10,7 +10,7 @@ Instead of relying on pre-built language models or high-level GPT implementation
 
 The project will be divided into multiple phases, with each phase focusing on a specific part of the development process.
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Understand the fundamentals of Large Language Models (LLMs).
 - Learn the architecture and working principles of GPT.
